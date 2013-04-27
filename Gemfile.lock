@@ -7,7 +7,7 @@ PATH
       multi_json (~> 1.0)
 
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     bluecloth (2.1.0)
     chronic (0.9.1)
